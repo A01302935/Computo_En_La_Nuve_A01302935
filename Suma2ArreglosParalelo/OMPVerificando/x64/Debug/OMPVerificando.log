@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  OMPVerificando.cpp
+C:\Users\polvo\OneDrive\Escritorio\Funcionamiento\Suma2ArreglosParalelo\OMPVerificando\OMPVerificando.cpp(24,12): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/OMPVerificando.cpp")
+  
+C:\Users\polvo\OneDrive\Escritorio\Funcionamiento\Suma2ArreglosParalelo\OMPVerificando\OMPVerificando.cpp(25,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/OMPVerificando.cpp")
+  
+C:\Users\polvo\OneDrive\Escritorio\Funcionamiento\Suma2ArreglosParalelo\OMPVerificando\OMPVerificando.cpp(16,5): warning C4101: 'i': variable local sin referencia
+  (compilando archivo de origen "/OMPVerificando.cpp")
+  
+  OMPVerificando.vcxproj -> C:\Users\polvo\OneDrive\Escritorio\Funcionamiento\Suma2ArreglosParalelo\x64\Debug\OMPVerificando.exe
